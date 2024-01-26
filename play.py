@@ -33,7 +33,7 @@ def redraw_board(window, board):
         for c in range(8):
             color = '#B58863' if (r + c) % 2 else '#F0D9B5'
             piece_image = images[board[r][c]]
-            elem = window.FindElement(key=(r, c))
+            elem = window[(r, c)]
             elem.Update(button_color=('white', color), image_filename=piece_image)
 
 
