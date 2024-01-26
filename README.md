@@ -1,4 +1,4 @@
-# chess-rf-ai
+# chess-RF-AI
 A minimax based active information directed reinforcement learning model that plays chess, created for a University assignment.
 
 Make an attempt at beating it! ♟️
