@@ -12,7 +12,7 @@ Using a variant of [Monte-Carlo Tree Search](https://en.wikipedia.org/wiki/Monte
 You start as whites. Click on a piece and then click it's location. The game does support castling, and will prevent you from making any illegal moves.
 
 #### Gameplay demo
-![gameplay-gif](./readme_assets/gameplay_preview_superfast.gif)
+![gameplay-gif](./readme_assets/sc-superfast-169.gif)
 
 ### Installation
 
